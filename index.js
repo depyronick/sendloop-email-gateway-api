@@ -1,1 +1,1 @@
-module.exports = require('./lib/sendloop');
+module.exports = require('./lib/Sendloop');
