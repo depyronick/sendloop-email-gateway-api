@@ -1,6 +1,6 @@
 {
   "name": "sendloop-email-gateway-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "NodeJS library for Sendloop e-mail gateway service.",
   "main": "index.js",
   "scripts": {
