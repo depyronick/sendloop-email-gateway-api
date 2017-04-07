@@ -1,0 +1,26 @@
+{
+  "name": "sendloop-email-gateway-api",
+  "version": "1.0.0",
+  "description": "NodeJS library for Sendloop e-mail gateway service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p0d3r/sendloop-email-gateway-api.git"
+  },
+  "keywords": [
+    "sendloop"
+  ],
+  "author": "Ali Poder",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/p0d3r/sendloop-email-gateway-api/issues"
+  },
+  "homepage": "https://github.com/p0d3r/sendloop-email-gateway-api#readme",
+  "dependencies": {
+    "extend": "^3.0.0",
+    "needle": "^1.6.0"
+  }
+}
